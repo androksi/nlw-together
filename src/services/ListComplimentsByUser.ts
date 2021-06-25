@@ -1,0 +1,6 @@
+
+class ListComplimentsByUserService {
+    
+}
+
+export { ListComplimentsByUserService }
